@@ -1,2 +1,2 @@
 # TetCTF-Writeups
-Some writeups on w=the challenges I solved
+Some writeups on the challenges I solved
